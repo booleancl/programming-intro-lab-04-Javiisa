@@ -24,3 +24,10 @@ def super_sum(number):
     else:
         return number + super_sum(number - 1)
 print(super_sum(3))
+
+
+#recursiòn infinita,sin condiciòn de salida
+#Para nada ùtil,pero entretenida
+def infinite():
+    infinite()
+
