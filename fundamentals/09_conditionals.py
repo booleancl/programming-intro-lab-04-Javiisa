@@ -15,7 +15,7 @@ gaby_age = 33
 charlotte_age = 33
 
 #Estas siguientes intrucciones las prodriamos leer como:
-#"Siel resultado es is_adultejecutada con la variable gaby_age o paola_age
+#"Si el resultado es is_adult ejecutada con la variable gaby_age o paola_age
 #Es verdadero,entonces el programa imprime'¿quieres una cerveza'
 #DE OTRO MODO (else)imprime 'cantemos chuchuwa?'"
 if is_adult(charlotte_age):
